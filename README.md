@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Mahdi Mahin 👋
 
-<!--
-**MahdiMahin/MahdiMahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CS Major at City College of New York
 
-Here are some ideas to get you started:
+Aspiring **Data Scientist** | Passionate about Python, Machine Learning & Analytics | Curious Problem Solver  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 Currently Working On
+- 📊 Personal data analysis projects using **Python, Pandas, NumPy, and Matplotlib**  
+- 🤖 Machine Learning models for prediction and classification  
+- 🌐 Building a portfolio of **end-to-end data science projects**  
+
+---
+
+## 💻 Skills
+
+### Programming & Data
+- **Languages:** Python, R, SQL, C++, Java  
+- **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn  
+- **Machine Learning:** scikit-learn, TensorFlow, Keras  
+- **Data Visualization:** Tableau, Plotly, Matplotlib  
+- **Databases:** MySQL, Firebase  
+- **Tools:** Git, GitHub, Jupyter Notebook, VS Code  
+
+---
+
+## 🚀 Projects
+
+### 1. [Pantry Tracker App](link)
+- Track groceries & expiration dates  
+- Built with **Python, Firebase, and React**  
+- Features: Add/Edit/Delete items, expiration alerts, search & filter
+
+### 2. [Headstarter Support Chatbot](link)
+- AI-based chatbot to assist users in real-time  
+- Built with **Python and NLP libraries**  
+- Implements natural language understanding & intent recognition
+
+### 3. [Data Science Portfolio Project](link)
+- Analyze large datasets for insights and predictions  
+- Applied **machine learning algorithms** for classification/regression  
+- Visualized results using **Matplotlib and Seaborn**  
+
+---
+
+
+## 📫 Contact Me
+- [LinkedIn](your-linkedin-link)  
+- [Email](mailto:your-email@example.com)  
+
+---
