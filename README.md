@@ -1,19 +1,7 @@
-# Hi, I'm Mahdi Mahin 👋
 
+
+# Hi, I'm Mahdi Mahin 👋
 CS Major at City College of New York
-
-Aspiring **Data Scientist** | Passionate about Python, Machine Learning & Analytics | Curious Problem Solver  
----
-
-## 🔭 Currently Working On
-- 📊 Personal data analysis projects using **Python, Pandas, NumPy, and Matplotlib**  
-- 🤖 Machine Learning models for prediction and classification  
-- 🌐 Building a portfolio of **end-to-end data science projects**  
-
----
-
-# Hi, I'm Mahdi Mahin 👋
-
 Aspiring **Data Scientist** | Python & Machine Learning Enthusiast | Passionate about turning data into insights 📊
 
 ---
