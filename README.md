@@ -2,6 +2,7 @@
 
 # Hi, I'm Mahdi Mahin 👋
 CS Major at City College of New York
+
 Aspiring **Data Scientist** | Python & Machine Learning Enthusiast | Passionate about turning data into insights 📊
 
 ---
