@@ -16,7 +16,7 @@ Aspiring **Data Scientist** | Passionate about Python, Machine Learning & Analyt
 ## 💻 Skills
 
 ### Programming & Data
-- **Languages:** Python, R, SQL, C++, Java  
+- **Languages:** Python, SQL, C++, Java  
 - **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn  
 - **Machine Learning:** scikit-learn, TensorFlow, Keras  
 - **Data Visualization:** Tableau, Plotly, Matplotlib  
