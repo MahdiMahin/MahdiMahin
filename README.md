@@ -41,28 +41,6 @@ Aspiring **Data Scientist** | Python & Machine Learning Enthusiast | Passionate 
 
 ---
 
-## 🚀 Featured Projects
-
-### 1️⃣ Pantry Tracker App
-![Pantry App Demo](https://via.placeholder.com/400x200.png?text=Project+GIF)
-- Track groceries & expiration dates with **Python, Firebase & React**  
-- Features: Add/Edit/Delete items, expiration alerts, search & filter  
-[View Repo](link-to-repo)
-
-### 2️⃣ Headstarter Chatbot
-![Chatbot Demo](https://via.placeholder.com/400x200.png?text=Project+GIF)
-- AI-based support assistant using **Python & NLP libraries**  
-- Implements natural language understanding & intent recognition  
-[View Repo](link-to-repo)
-
-### 3️⃣ Data Science Portfolio Project
-![DS Project Demo](https://via.placeholder.com/400x200.png?text=Project+GIF)
-- Data analysis & visualization on real-world datasets  
-- Applied **machine learning models** for prediction and classification  
-- Visualized insights using **Matplotlib & Seaborn**  
-[View Repo](link-to-repo)
-
----
 
 ## 📫 Contact Me
 - [LinkedIn](https://www.linkedin.com/in/mahdi-mahin-114a64238/)  
