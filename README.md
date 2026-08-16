@@ -43,7 +43,5 @@ Aspiring **Data Scientist** | Python & Machine Learning Enthusiast | Passionate 
 
 ## 📫 Contact Me
 - [LinkedIn](https://www.linkedin.com/in/mahdi-mahin-114a64238/)  
-- [Email](mailto:mahdimahin786@gmail.com)  
-
 ---
 
