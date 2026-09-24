@@ -1,25 +1,35 @@
-
-
 # Hi, I'm Mahdi Mahin 👋
 CS Major at City College of New York
 
-Aspiring **SOC Analyst** 
+Aspiring **SOC Analyst**
 
 ---
 
 ## 🔭 Currently Working On
-- Building **machine learning models** for real-world prediction & classification problems  
-- Data analysis & visualization projects using **Python, Pandas, and Matplotlib**  
-- Expanding my portfolio with **end-to-end data science projects**  
+- Building foundations in **networking, Linux, and Windows** for a SOC analyst path
+- Studying for **CompTIA Security+**
+- Practicing on **TryHackMe** and **Hack The Box**, and building out a home lab
+- Growing a cybersecurity portfolio on GitHub (write-ups, labs, small tools/scripts)
 
 ---
 
 ## 💻 Skills & Tools
 
-### Programming & Data
+### Security Fundamentals
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=white)
+
+### Learning Platforms & Labs
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red)
+![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+
+### Programming & Networking
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Data Analysis & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -37,11 +47,10 @@ Aspiring **SOC Analyst**
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
-
 
 ## 📫 Contact Me
-- [LinkedIn](https://www.linkedin.com/in/mahdi-mahin-114a64238/)  
+- [LinkedIn](https://www.linkedin.com/in/mahdi-mahin-114a64238/)
 ---
-
