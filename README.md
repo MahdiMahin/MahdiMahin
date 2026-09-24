@@ -3,7 +3,7 @@
 # Hi, I'm Mahdi Mahin 👋
 CS Major at City College of New York
 
-Aspiring **SOC Analyst** |
+Aspiring **SOC Analyst** 
 
 ---
 
